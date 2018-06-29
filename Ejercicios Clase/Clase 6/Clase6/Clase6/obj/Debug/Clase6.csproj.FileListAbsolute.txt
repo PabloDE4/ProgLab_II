@@ -1,0 +1,11 @@
+E:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\bin\Debug\Clase6.exe.config
+E:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\bin\Debug\Clase6.exe
+E:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\bin\Debug\Clase6.pdb
+E:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\obj\Debug\Clase6.Form1.resources
+E:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\obj\Debug\Clase6.Properties.Resources.resources
+E:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\obj\Debug\Clase6.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\obj\Debug\Clase6.exe
+E:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\obj\Debug\Clase6.pdb
+H:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\bin\Debug\Clase6.exe.config
+H:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\obj\Debug\Clase6.exe
+H:\ProgLabII_2018\Ejercicios Clase\Clase 6\Clase6\Clase6\obj\Debug\Clase6.pdb

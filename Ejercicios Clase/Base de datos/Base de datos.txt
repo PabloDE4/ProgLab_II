@@ -1,0 +1,16 @@
+Para conectar a la base de datos -> .\sqlexpress.mdf
+
+sqllocaldb create "servidor"
+
+sqlocaldb start "servidor"
+
+(localdb)\servidor
+
+
+id -> numeric
+para que sea autoincrementar = Propiedades > Inicializacion de indentidad
+
+Para hacer cambios en la tabla:
+Herramientas > Opciones > Diseñadores > Impedir guardar cambios...
+
+

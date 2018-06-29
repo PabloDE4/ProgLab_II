@@ -1,0 +1,23 @@
+        public bool Guardar()
+        {
+            try
+            {
+                StreamWriter file = new StreamWriter(this.RutaDeArchivo);
+                file.WriteLine(this.Mostrar());
+                file.Close();
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        public string Leer()
+        {
+            StreamReader file = new StreamReader(this.RutaDeArchivo);
+            string retorno = file.ReadToEnd();
+            file.Close();
+            return retorno;
+        }			
