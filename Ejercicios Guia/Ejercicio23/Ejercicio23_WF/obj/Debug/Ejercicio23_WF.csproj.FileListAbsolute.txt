@@ -1,0 +1,47 @@
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio20.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio20.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.Properties.Resources.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio 23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.Form1.resources
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.Form1.resources
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.Properties.Resources.resources
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.pdb
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio20.exe
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio20.pdb
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.exe
+E:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.pdb
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe.config
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.exe
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.csprojResolveAssemblyReference.cache
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.Form1.resources
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.Properties.Resources.resources
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.csproj.GenerateResource.Cache
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.pdb
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio20.exe
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio20.pdb
+H:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.pdb
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe.config
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.exe
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.pdb
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.pdb
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio20.exe
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\bin\Debug\Ejercicio20.pdb
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.csprojResolveAssemblyReference.cache
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.Form1.resources
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.Properties.Resources.resources
+F:\ProgLabII_2018\Ejercicios Guia\23\Ejercicio23_WF\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio23\Ejercicio23_WF\bin\Debug\Ejercicio23_WF.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio23\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio23\Ejercicio23_WF\obj\Debug\Ejercicio23_WF.pdb

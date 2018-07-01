@@ -1,0 +1,5 @@
+E:\ProgLabII_2018\Ejercicios 1-5\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+E:\ProgLabII_2018\Ejercicios 1-5\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\ProgLabII_2018\Ejercicios 1-5\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\ProgLabII_2018\Ejercicios 1-5\Ejercicio2\obj\Debug\Ejercicio2.exe
+E:\ProgLabII_2018\Ejercicios 1-5\Ejercicio2\obj\Debug\Ejercicio2.pdb

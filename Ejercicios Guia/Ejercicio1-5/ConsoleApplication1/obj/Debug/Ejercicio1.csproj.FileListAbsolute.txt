@@ -1,0 +1,6 @@
+E:\ProgLabII_2018\Ejercicios 1-5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\ProgLabII_2018\Ejercicios 1-5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\ProgLabII_2018\Ejercicios 1-5\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\ProgLabII_2018\Ejercicios 1-5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\ProgLabII_2018\Ejercicios 1-5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\ProgLabII_2018\Ejercicios 1-5\ConsoleApplication1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache

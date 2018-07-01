@@ -1,0 +1,8 @@
+E:\ProgLabII_2018\Ejercicios Clase\Clase 4\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+E:\ProgLabII_2018\Ejercicios Clase\Clase 4\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe
+E:\ProgLabII_2018\Ejercicios Clase\Clase 4\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.pdb
+E:\ProgLabII_2018\Ejercicios Clase\Clase 4\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.exe
+E:\ProgLabII_2018\Ejercicios Clase\Clase 4\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.pdb
+F:\ProgLabII_2018\Ejercicios Clase\Clase 4\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+F:\ProgLabII_2018\Ejercicios Clase\Clase 4\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.exe
+F:\ProgLabII_2018\Ejercicios Clase\Clase 4\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.pdb
