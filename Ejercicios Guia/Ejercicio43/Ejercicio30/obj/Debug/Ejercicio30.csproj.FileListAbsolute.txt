@@ -1,0 +1,9 @@
+E:\ProgLabII_2018\Ejercicios Guia\30\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.dll
+E:\ProgLabII_2018\Ejercicios Guia\30\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.pdb
+E:\ProgLabII_2018\Ejercicios Guia\30\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.dll
+E:\ProgLabII_2018\Ejercicios Guia\30\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.pdb
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.dll
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.pdb
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.dll
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.pdb

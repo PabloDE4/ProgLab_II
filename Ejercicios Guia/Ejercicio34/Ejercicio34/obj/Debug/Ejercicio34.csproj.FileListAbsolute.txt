@@ -1,0 +1,12 @@
+E:\ProgLabII_2018\Ejercicios Guia\34\Ejercicio34\Ejercicio34\bin\Debug\Ejercicio34.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\34\Ejercicio34\Ejercicio34\bin\Debug\Ejercicio34.exe
+E:\ProgLabII_2018\Ejercicios Guia\34\Ejercicio34\Ejercicio34\bin\Debug\Ejercicio34.pdb
+E:\ProgLabII_2018\Ejercicios Guia\34\Ejercicio34\Ejercicio34\obj\Debug\Ejercicio34.exe
+E:\ProgLabII_2018\Ejercicios Guia\34\Ejercicio34\Ejercicio34\obj\Debug\Ejercicio34.pdb
+E:\ProgLabII_2018\Ejercicios Guia\34\Ejercicio34\Ejercicio34\obj\Debug\Ejercicio34.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio34\Ejercicio34\bin\Debug\Ejercicio34.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio34\Ejercicio34\obj\Debug\Ejercicio34.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio34\Ejercicio34\obj\Debug\Ejercicio34.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio34\Ejercicio34\bin\Debug\Ejercicio34.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio34\Ejercicio34\bin\Debug\Ejercicio34.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio34\Ejercicio34\obj\Debug\Ejercicio34.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\ProgLabII_2018\Ejercicios Guia\32\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.dll
+E:\ProgLabII_2018\Ejercicios Guia\32\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.pdb
+E:\ProgLabII_2018\Ejercicios Guia\32\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.dll
+E:\ProgLabII_2018\Ejercicios Guia\32\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio32\Ejercicio29\bin\Debug\Ejercicio29.dll
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio32\Ejercicio29\bin\Debug\Ejercicio29.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio32\Ejercicio29\obj\Debug\Ejercicio29.dll
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio32\Ejercicio29\obj\Debug\Ejercicio29.pdb

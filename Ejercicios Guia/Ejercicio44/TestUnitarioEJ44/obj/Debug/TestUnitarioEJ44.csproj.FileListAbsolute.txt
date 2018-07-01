@@ -1,0 +1,14 @@
+E:\ProgLabII_2018\Ejercicios Guia\44\TestUnitarioEJ44\TestUnitarioEJ44\bin\Debug\TestUnitarioEJ44.dll
+E:\ProgLabII_2018\Ejercicios Guia\44\TestUnitarioEJ44\TestUnitarioEJ44\bin\Debug\TestUnitarioEJ44.pdb
+E:\ProgLabII_2018\Ejercicios Guia\44\TestUnitarioEJ44\TestUnitarioEJ44\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\44\TestUnitarioEJ44\TestUnitarioEJ44\bin\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\44\TestUnitarioEJ44\TestUnitarioEJ44\obj\Debug\TestUnitarioEJ44.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\44\TestUnitarioEJ44\TestUnitarioEJ44\obj\Debug\TestUnitarioEJ44.dll
+E:\ProgLabII_2018\Ejercicios Guia\44\TestUnitarioEJ44\TestUnitarioEJ44\obj\Debug\TestUnitarioEJ44.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio44\TestUnitarioEJ44\bin\Debug\TestUnitarioEJ44.dll
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio44\TestUnitarioEJ44\bin\Debug\TestUnitarioEJ44.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio44\TestUnitarioEJ44\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio44\TestUnitarioEJ44\bin\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio44\TestUnitarioEJ44\obj\Debug\TestUnitarioEJ44.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio44\TestUnitarioEJ44\obj\Debug\TestUnitarioEJ44.dll
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio44\TestUnitarioEJ44\obj\Debug\TestUnitarioEJ44.pdb

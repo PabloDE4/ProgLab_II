@@ -1,0 +1,11 @@
+E:\ProgLabII_2018\Ejercicios Guia\37\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\37\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\37\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\37\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\37\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio37\CentralTelefonica\bin\Debug\CentralTelefonica.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio37\CentralTelefonica\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio37\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio37\CentralTelefonica\obj\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio37\CentralTelefonica\obj\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio37\CentralTelefonica\obj\Debug\CentralTelefonica.csprojResolveAssemblyReference.cache

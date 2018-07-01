@@ -1,0 +1,9 @@
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\bin\Debug\Ej40_WF.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\bin\Debug\Ej40_WF.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\bin\Debug\Ej40_WF.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\obj\Debug\Ej40_WF.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\obj\Debug\Ej40_WF.Form1.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\obj\Debug\Ej40_WF.Properties.Resources.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\obj\Debug\Ej40_WF.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\obj\Debug\Ej40_WF.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio40\Ej40_WF\obj\Debug\Ej40_WF.pdb

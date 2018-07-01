@@ -1,0 +1,16 @@
+E:\ProgLabII_2018\Ejercicios Guia\41\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\41\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.exe
+E:\ProgLabII_2018\Ejercicios Guia\41\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.pdb
+E:\ProgLabII_2018\Ejercicios Guia\41\Ejercicio41\Ejercicio41\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\41\Ejercicio41\Ejercicio41\bin\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\41\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\41\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.exe
+E:\ProgLabII_2018\Ejercicios Guia\41\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio41\Ejercicio41\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio41\Ejercicio41\bin\Debug\CentralTelefonica.pdb

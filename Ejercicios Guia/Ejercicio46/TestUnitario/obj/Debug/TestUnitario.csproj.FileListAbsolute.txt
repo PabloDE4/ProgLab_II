@@ -1,0 +1,12 @@
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\TestUnitario\bin\Debug\TestUnitario.dll
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\TestUnitario\bin\Debug\TestUnitario.pdb
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\TestUnitario\obj\Debug\TestUnitario.dll
+E:\ProgLabII_2018\Ejercicios Guia\43\Ejercicio30\TestUnitario\obj\Debug\TestUnitario.pdb
+E:\ProgLabII_2018\Ejercicios Guia\46\Ejercicio30\TestUnitario\bin\Debug\TestUnitario.dll
+E:\ProgLabII_2018\Ejercicios Guia\46\Ejercicio30\TestUnitario\bin\Debug\TestUnitario.pdb
+E:\ProgLabII_2018\Ejercicios Guia\46\Ejercicio30\TestUnitario\obj\Debug\TestUnitario.dll
+E:\ProgLabII_2018\Ejercicios Guia\46\Ejercicio30\TestUnitario\obj\Debug\TestUnitario.pdb
+E:\ProgLabII_2018\Ejercicios Guia\46\Ejercicio30\TestUnitario\bin\Debug\Ejercicio30.dll
+E:\ProgLabII_2018\Ejercicios Guia\46\Ejercicio30\TestUnitario\bin\Debug\Ejercicio30.pdb
+E:\ProgLabII_2018\Ejercicios Guia\46\Ejercicio30\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
