@@ -1,0 +1,5 @@
+E:\ProgLabII_2018\Modelos Parciales\Segundo Parcial\RSP_2017\RSP_2017\Interfaces\bin\Debug\Interfaces.dll
+E:\ProgLabII_2018\Modelos Parciales\Segundo Parcial\RSP_2017\RSP_2017\Interfaces\bin\Debug\Interfaces.pdb
+E:\ProgLabII_2018\Modelos Parciales\Segundo Parcial\RSP_2017\RSP_2017\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Modelos Parciales\Segundo Parcial\RSP_2017\RSP_2017\Interfaces\obj\Debug\Interfaces.dll
+E:\ProgLabII_2018\Modelos Parciales\Segundo Parcial\RSP_2017\RSP_2017\Interfaces\obj\Debug\Interfaces.pdb

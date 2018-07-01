@@ -1,0 +1,11 @@
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\bin\Debug\Formulario.exe.config
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\obj\Debug\Formulario.Form1.resources
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\bin\Debug\Formulario.exe
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\bin\Debug\Formulario.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\bin\Debug\Entidades.dll
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\bin\Debug\Entidades.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\obj\Debug\Formulario.exe
+H:\ProgLabII_2018\Modelos Parciales\PP_4\Formulario\obj\Debug\Formulario.pdb

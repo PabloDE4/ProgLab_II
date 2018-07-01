@@ -1,0 +1,13 @@
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\Entidades\bin\Debug\Entidades.dll
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\Entidades\bin\Debug\Entidades.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\Entidades\obj\Debug\Entidades.dll
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\Entidades\obj\Debug\Entidades.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\bin\Debug\Entidades.dll
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\bin\Debug\Entidades.pdb
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\obj\Debug\Entidades.dll
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\obj\Debug\Entidades.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\bin\Debug\Entidades.dll
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\bin\Debug\Entidades.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\obj\Debug\Entidades.dll
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\obj\Debug\Entidades.pdb

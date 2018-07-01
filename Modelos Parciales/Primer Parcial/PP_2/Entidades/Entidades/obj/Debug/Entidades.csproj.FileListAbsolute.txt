@@ -1,0 +1,4 @@
+E:\ProgLabII_2018\Modelos Parciales\PP_2\Entidades\Entidades\bin\Debug\Entidades.dll
+E:\ProgLabII_2018\Modelos Parciales\PP_2\Entidades\Entidades\bin\Debug\Entidades.pdb
+E:\ProgLabII_2018\Modelos Parciales\PP_2\Entidades\Entidades\obj\Debug\Entidades.dll
+E:\ProgLabII_2018\Modelos Parciales\PP_2\Entidades\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,8 @@
+H:\ProgLabII_2018\Modelos Parciales\PP_3 2017\Test\bin\Debug\Test.exe.config
+H:\ProgLabII_2018\Modelos Parciales\PP_3 2017\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+H:\ProgLabII_2018\Modelos Parciales\PP_3 2017\Test\bin\Debug\Test.exe
+H:\ProgLabII_2018\Modelos Parciales\PP_3 2017\Test\bin\Debug\Test.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_3 2017\Test\bin\Debug\Entidades.dll
+H:\ProgLabII_2018\Modelos Parciales\PP_3 2017\Test\bin\Debug\Entidades.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_3 2017\Test\obj\Debug\Test.exe
+H:\ProgLabII_2018\Modelos Parciales\PP_3 2017\Test\obj\Debug\Test.pdb

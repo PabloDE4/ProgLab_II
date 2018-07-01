@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSP_2017", "RSP_2017\RSP_2017.csproj", "{239809E7-30E8-46F5-B4B1-17B05701F2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{DC481E04-CCDB-4735-8CF1-5AAE0597CA17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{60E3CEE6-B144-49B0-82A5-803622DEAB62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239809E7-30E8-46F5-B4B1-17B05701F2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239809E7-30E8-46F5-B4B1-17B05701F2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239809E7-30E8-46F5-B4B1-17B05701F2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239809E7-30E8-46F5-B4B1-17B05701F2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC481E04-CCDB-4735-8CF1-5AAE0597CA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC481E04-CCDB-4735-8CF1-5AAE0597CA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC481E04-CCDB-4735-8CF1-5AAE0597CA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC481E04-CCDB-4735-8CF1-5AAE0597CA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E3CEE6-B144-49B0-82A5-803622DEAB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E3CEE6-B144-49B0-82A5-803622DEAB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E3CEE6-B144-49B0-82A5-803622DEAB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E3CEE6-B144-49B0-82A5-803622DEAB62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

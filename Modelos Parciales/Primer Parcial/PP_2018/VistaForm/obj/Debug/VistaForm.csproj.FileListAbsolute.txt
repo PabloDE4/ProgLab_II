@@ -1,0 +1,29 @@
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\bin\Debug\VistaForm.exe.config
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\bin\Debug\VistaForm.exe
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\bin\Debug\VistaForm.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\bin\Debug\Entidades.dll
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\bin\Debug\Entidades.pdb
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\obj\Debug\VistaForm.exe
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\Entidades\VistaForm\obj\Debug\VistaForm.pdb
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.exe
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.Form1.resources
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+H:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.exe
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.frmVista.resources
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\bin\Debug\VistaForm.exe.config
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\bin\Debug\VistaForm.exe
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\bin\Debug\VistaForm.pdb
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\bin\Debug\Entidades.dll
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\bin\Debug\Entidades.pdb
+E:\ProgLabII_2018\Modelos Parciales\PP_2018\VistaForm\obj\Debug\VistaForm.pdb
+E:\ProgLabII_2018\Modelos Parciales\Primer Parcial\PP_2018\VistaForm\bin\Debug\VistaForm.exe.config
+E:\ProgLabII_2018\Modelos Parciales\Primer Parcial\PP_2018\VistaForm\obj\Debug\VistaForm.exe
+E:\ProgLabII_2018\Modelos Parciales\Primer Parcial\PP_2018\VistaForm\obj\Debug\VistaForm.pdb

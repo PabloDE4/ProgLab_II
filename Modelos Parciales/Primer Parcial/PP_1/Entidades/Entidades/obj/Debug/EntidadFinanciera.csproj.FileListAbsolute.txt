@@ -1,0 +1,5 @@
+E:\ProgLabII_2018\Modelos Parciales\PP_1\Entidades\Entidades\bin\Debug\Entidades.dll
+E:\ProgLabII_2018\Modelos Parciales\PP_1\Entidades\Entidades\bin\Debug\Entidades.pdb
+E:\ProgLabII_2018\Modelos Parciales\PP_1\Entidades\Entidades\obj\Debug\EntidadFinanciera.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Modelos Parciales\PP_1\Entidades\Entidades\obj\Debug\Entidades.dll
+E:\ProgLabII_2018\Modelos Parciales\PP_1\Entidades\Entidades\obj\Debug\Entidades.pdb
