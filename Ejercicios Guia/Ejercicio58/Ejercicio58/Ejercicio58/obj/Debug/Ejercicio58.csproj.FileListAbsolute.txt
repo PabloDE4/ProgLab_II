@@ -1,0 +1,8 @@
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio58\Ejercicio58\Ejercicio58\bin\Debug\Ejercicio58.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio58\Ejercicio58\Ejercicio58\bin\Debug\Ejercicio58.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio58\Ejercicio58\Ejercicio58\bin\Debug\Ejercicio58.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio58\Ejercicio58\Ejercicio58\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio58\Ejercicio58\Ejercicio58\bin\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio58\Ejercicio58\Ejercicio58\obj\Debug\Ejercicio58.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio58\Ejercicio58\Ejercicio58\obj\Debug\Ejercicio58.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio58\Ejercicio58\Ejercicio58\obj\Debug\Ejercicio58.pdb

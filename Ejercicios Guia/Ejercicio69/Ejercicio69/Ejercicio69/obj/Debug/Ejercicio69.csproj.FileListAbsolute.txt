@@ -1,0 +1,10 @@
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\bin\Debug\Ejercicio69.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\bin\Debug\Ejercicio69.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\bin\Debug\Ejercicio69.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.FrmPrincipal.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.frmTestDelegados.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.Properties.Resources.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio69\Ejercicio69\Ejercicio69\obj\Debug\Ejercicio69.frmDatos.resources

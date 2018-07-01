@@ -1,0 +1,25 @@
+
+Razon Social: Fede Center
+Ganancia Total: 189,84
+Ganancia Local: 169,05
+Ganancia Provincial: 20,79
+LLAMADAS:
+---------------------------------------Duracion      : 30
+Numero Destino: Rosario
+Numero Origen : Bernal
+
+Costo: 79,5
+
+---------------------------------------Duracion      : 21
+Numero Destino: Bernal
+Numero Origen : Morón
+
+Franja: Franja_1
+Costo : 20,79
+
+---------------------------------------Duracion      : 45
+Numero Destino: San Rafael
+Numero Origen : Lanús
+
+Costo: 89,55
+

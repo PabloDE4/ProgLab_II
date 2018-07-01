@@ -1,0 +1,8 @@
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio68\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio68\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio68\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio68\Ejercicio\Ejercicio\obj\Debug\Ejercicio68.Form1.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio68\Ejercicio\Ejercicio\obj\Debug\Ejercicio68.Properties.Resources.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio68\Ejercicio\Ejercicio\obj\Debug\Ejercicio68.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio68\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio68\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb

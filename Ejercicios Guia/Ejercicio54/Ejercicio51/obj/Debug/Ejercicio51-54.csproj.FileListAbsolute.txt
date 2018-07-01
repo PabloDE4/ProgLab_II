@@ -1,0 +1,16 @@
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio51\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51-54.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio51\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio51\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio51\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio51\Ejercicio51\Ejercicio51\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio51\Ejercicio51\Ejercicio51\bin\Debug\CentralTelefonica.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio51\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio51\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio54\Ejercicio51\bin\Debug\Ejercicio51.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio54\Ejercicio51\obj\Debug\Ejercicio51.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio54\Ejercicio51\obj\Debug\Ejercicio51.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio54\Ejercicio51\obj\Debug\Ejercicio51-54.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio54\Ejercicio51\bin\Debug\Ejercicio51.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio54\Ejercicio51\bin\Debug\Ejercicio51.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio54\Ejercicio51\bin\Debug\CentralTelefonica.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio54\Ejercicio51\bin\Debug\CentralTelefonica.pdb

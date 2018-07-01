@@ -1,0 +1,9 @@
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\bin\Debug\Ejercicio67.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.Properties.Resources.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.csproj.GenerateResource.Cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\bin\Debug\Ejercicio67.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\bin\Debug\Ejercicio67.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.Form1.resources
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio67\Ejercicio67\Ejercicio67\obj\Debug\Ejercicio67.pdb

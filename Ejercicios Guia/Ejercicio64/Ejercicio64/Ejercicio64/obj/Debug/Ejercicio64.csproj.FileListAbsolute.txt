@@ -1,0 +1,6 @@
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio64\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.exe.config
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio64\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.csprojResolveAssemblyReference.cache
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio64\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio64\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.pdb
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio64\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.exe
+E:\ProgLabII_2018\Ejercicios Guia\Ejercicio64\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.pdb
