@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AlumnoEgresado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_nombre>Brian</_nombre>
+  <_raza>Cabeza</_raza>
+  <_apellido>Lopez</_apellido>
+  <_edad>17</_edad>
+  <_legajo>123</_legajo>
+  <_nivel>Primaria</_nivel>
+  <_promedio>8.8</_promedio>
+  <_promocion>2001</_promocion>
+</AlumnoEgresado>

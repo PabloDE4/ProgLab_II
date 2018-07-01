@@ -1,0 +1,21 @@
+E:\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.csprojResolveAssemblyReference.cache
+E:\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\TestBiblioteca.exe.config
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\TestBiblioteca.exe.config
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.csprojResolveAssemblyReference.cache
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\TestBiblioteca.exe
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\TestBiblioteca.pdb
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\DiazEcheveste.Pablo.2C.dll
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\DiazEcheveste.Pablo.2C.pdb
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.exe
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.pdb
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\TestBiblioteca.exe.config
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.exe
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.pdb
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\TestBiblioteca.exe.config
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.exe
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.pdb
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\TestBiblioteca.exe
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\TestBiblioteca.pdb
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\DiazEcheveste.Pablo.2C.dll
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\bin\Debug\DiazEcheveste.Pablo.2C.pdb
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 1\DiazEcheveste.Pablo.2C\TestBiblioteca\obj\Debug\TestBiblioteca.csprojResolveAssemblyReference.cache

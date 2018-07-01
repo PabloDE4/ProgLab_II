@@ -1,0 +1,5 @@
+I:\FinalLaboratorioII\Entidades.Punto9F\bin\Debug\Entidades.Punto9F.dll
+I:\FinalLaboratorioII\Entidades.Punto9F\bin\Debug\Entidades.Punto9F.pdb
+I:\FinalLaboratorioII\Entidades.Punto9F\obj\Debug\Entidades.Punto9F.dll
+I:\FinalLaboratorioII\Entidades.Punto9F\obj\Debug\Entidades.Punto9F.pdb
+I:\FinalLaboratorioII\Entidades.Punto9F\bin\Debug\Entidades.Punto9F.dll.config

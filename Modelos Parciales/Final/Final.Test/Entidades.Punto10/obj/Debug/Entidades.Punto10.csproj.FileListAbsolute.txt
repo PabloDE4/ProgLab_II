@@ -1,0 +1,4 @@
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto10\bin\Debug\Entidades.Punto10.dll
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto10\bin\Debug\Entidades.Punto10.pdb
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto10\obj\Debug\Entidades.Punto10.dll
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto10\obj\Debug\Entidades.Punto10.pdb

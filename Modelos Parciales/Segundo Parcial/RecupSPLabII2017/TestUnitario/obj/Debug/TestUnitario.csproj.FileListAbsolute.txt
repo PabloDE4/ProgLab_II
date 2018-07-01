@@ -1,0 +1,6 @@
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\TestUnitario\bin\Debug\TestUnitario.dll
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\TestUnitario\bin\Debug\TestUnitario.pdb
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\TestUnitario\bin\Debug\Entidades.dll
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\TestUnitario\bin\Debug\Entidades.pdb
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\TestUnitario\obj\Debug\TestUnitario.dll
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\TestUnitario\obj\Debug\TestUnitario.pdb

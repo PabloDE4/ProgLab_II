@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Entidades
+{
+    public abstract class Persona
+    {
+        protected string apellido;
+        protected string nombre;
+
+        public Persona()
+        { 
+        }
+
+        public Persona(string apellido, string nombre)
+        {
+            this.apellido = apellido;
+            this.nombre = nombre;
+        }
+
+        public string Nombre
+        {
+            get{return this.nombre;}
+        }
+
+        public string Apellido
+        {
+            get{return this.apellido;}
+        }
+
+    }
+}

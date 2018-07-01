@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CajonOfManzana xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Frutas>
+    <Manzana>
+      <_distribuidora>Frutol</_distribuidora>
+    </Manzana>
+    <Manzana>
+      <_distribuidora>Frutita</_distribuidora>
+    </Manzana>
+  </Frutas>
+  <RutaArchivo>I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\CajonManzanas.xml</RutaArchivo>
+</CajonOfManzana>

@@ -1,0 +1,10 @@
+E:\DiazEcheveste.Pablo.2017\Entidades\bin\Debug\Entidades.dll
+E:\DiazEcheveste.Pablo.2017\Entidades\bin\Debug\Entidades.pdb
+E:\DiazEcheveste.Pablo.2017\Entidades\obj\Debug\Entidades.dll
+E:\DiazEcheveste.Pablo.2017\Entidades\obj\Debug\Entidades.pdb
+E:\DiazEcheveste.Pablo.2017\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\Entidades\bin\Debug\Entidades.dll
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\Entidades\bin\Debug\Entidades.pdb
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\Entidades\obj\Debug\Entidades.dll
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\RecupSPLabII2017\DiazEcheveste.Pablo.2017\Entidades\obj\Debug\Entidades.pdb

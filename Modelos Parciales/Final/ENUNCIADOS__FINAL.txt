@@ -1,0 +1,70 @@
+DESARROLLAR DENTRO DEL NAMESPACE RAIZ ENTIDADES EN UN PROYECTO DE TIPO CLASS LIBRARY
+CADA PUNTO DE ESTE EXAMEN SE DEBE REALIZAR EN DISTINTOS NAMESPACES
+SE EVALUARA DE ACUERDO AL PROYECTO PATRON DE TIPO WINDOWS FORM
+SE DEBERA, ENTRE CADA PUNTO Y COPIAR LAS JERARQUIAS Y CAMBIAR DE NAMESPACE
+
+//Entidades.Inicio.
+//Desarrollar la siguiente jerarquia de clases:
+//Humano (+ nombre:string; + raza:ERaza)
+//Persona (+ apellido:string; + edad:Sbyte)
+//Alumno (+ legajo: Short; + nivel: ENivelDeEstudio)
+//AlumnoEgresado (+ promedio: float; promocion: Short)
+//Todos los atributos de las clases son públicos y además
+//que todas las clases poseen un solo constructor, realice los constructores, de cada una de las clases, sabiendo
+//que AlumnoEgresado hereda de Alumno, que Alumno hereda de Persona y que éste último hereda de Humano.
+//ERaza -> Aria, Mestiza, Negra, Cabeza
+//ENivelDeEstudio -> Primaria, Secundaria, Terciaria, Universitaria
+//Entidades.Inicio.Humano h = new Entidades.Inicio.Humano("Juan", ERaza.Mestiza);
+//Entidades.Inicio.Persona p = new Entidades.Inicio.Persona("Brian", "Lopez", ERaza.Cabeza, 17);
+//Entidades.Inicio.Alumno a = new Entidades.Inicio.Alumno(p, 123, ENivelDeEstudio.Primaria);
+//Entidades.Inicio.AlumnoEgresado ae = new Entidades.Inicio.AlumnoEgresado(a, 4.5f, 2017);
+
+
+//Entidades.Punto2F.
+//crear una clase (ClaseConstructores) que al instanciarse:
+//    *pase por un constructor estatico
+//    *pase por un constructor que reciba 2 parametros (privado)
+//    *pase por un constructor publico (default)
+//    *pase por una propiedad de solo escritura
+//    *pase por una propiedad de solo lectra
+//    *pase por un metodo de instancia
+//    *pase por un metodo de clase
+//NOTA: por cada lugar que pase, mostrar con un MessageBox.Show dicho lugar
+//NOTA: agregar la referencia a System.Windows.Form; para poder acceder a la clase MessageBox.
+//NOTA: NO MAS DE 2 LINEAS DE CODIGO POR METODO/PROPIEDAD/CONSTRUCTOR
+
+//Entidades.Punto6F.
+//Implementar en AlumnoEgresado: ISerializar(Xml(string):bool) de forma implicita y 
+//IDeserializar(Xml(string, out AlumnoEgresado):bool) de forma explicita
+
+//Entidades.Punto7.
+//Realizar el burbujeo de una excepción propia (MiException), comenzando en un método de instancia (de la clase Burbujeo), 
+//pasando por un método de estático (de la misma clase) y capturado por última vez en el metodo que lo inicio (manejador _click). 
+//En cada paso, agregar en un unico archivo de texto (burbujeo.txt)
+//el lugar por donde se paso junto con la hora, minuto y segundo de la accion. Atrapar la excepcion y relanzarla en cada ocacion.
+//al finalizar leer el archivo y mostrarlo por MessageBox
+
+//Entidades.Punto9F.
+//Agregar metodo de extension (clase Extensora) en Persona MostrarBD():string.
+//MostrarBD retornara una cadena (Apellido, Nombre y Edad) de todos los registros de la BD.
+
+//Entidades.Punto11.
+// Generar la clase Salon con el atributo _elementos:List del tipo genérico.
+// (este sólo se podrá inicializar en el constructor por defécto, que además será privado)
+// y _capacidad:int (generar un constructor que lo reciba como parámetros).
+// Generar la Excepción propia NoAgregaException con un único constructor que reciba el mensaje a mostrar.
+// Al sumar un Salon con un elemento de tipo Persona se deberá a gregar a la lista de _elementos
+// SÓLO si el tipo genérico del salon es igual al elemento de tipo persona y aun hay lugar en el salon.
+// Si no son del mismo tipo, el mensaje deberá ser "El elemento es del tipo 'xxx'. Se esperaba 'yyy'.". 
+// Si la capacidad está al límite, el mensaje será "Capacidad completa.".
+
+
+//Entidades.Punto11.
+//Eventos
+//Agregar en la clase Salon que, si se llego al limite de capacidad, se lance un evento SalonLlenoEvent.
+//Esto mostrara un mensaje en el manejador Salon_SalonLlenoEvent.
+
+//Entidades.Punto12.
+//Threads
+//Iniciar un nuevo hilo que ejecute todos los manejadores de eventos de los botones del formulario
+//(button2, button3, button4 y button5)

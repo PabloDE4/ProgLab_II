@@ -1,0 +1,10 @@
+E:\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\bin\Debug\DiazEcheveste.Pablo.2C.dll
+E:\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\bin\Debug\DiazEcheveste.Pablo.2C.pdb
+E:\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\obj\Debug\DiazEcheveste.Pablo.2C.dll
+E:\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\obj\Debug\DiazEcheveste.Pablo.2C.pdb
+E:\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\obj\Debug\DiazEcheveste.Pablo.2C.dll
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\obj\Debug\DiazEcheveste.Pablo.2C.pdb
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\bin\Debug\DiazEcheveste.Pablo.2C.dll.config
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\bin\Debug\DiazEcheveste.Pablo.2C.dll
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\DiazEcheveste.Pablo.2C\bin\Debug\DiazEcheveste.Pablo.2C.pdb

@@ -1,0 +1,27 @@
+E:\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.exe.config
+E:\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.exe
+E:\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.pdb
+E:\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.exe
+E:\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.pdb
+E:\DiazEcheveste.Pablo.2C\Test\bin\Debug\DiazEcheveste.Pablo.2C.dll
+E:\DiazEcheveste.Pablo.2C\Test\bin\Debug\DiazEcheveste.Pablo.2C.pdb
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.exe.config
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.exe
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.pdb
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.exe
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.pdb
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\DiazEcheveste.Pablo.2C.dll
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\DiazEcheveste.Pablo.2C.pdb
+I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.exe.config
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.exe
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.pdb
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.exe
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.pdb
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\DiazEcheveste.Pablo.2C.dll
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\DiazEcheveste.Pablo.2C.pdb
+E:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\Test.exe.config
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.exe
+H:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\obj\Debug\Test.pdb

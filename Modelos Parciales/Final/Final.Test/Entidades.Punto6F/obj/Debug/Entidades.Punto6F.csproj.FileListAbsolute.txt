@@ -1,0 +1,9 @@
+E:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\bin\Debug\Entidades.Punto6F.dll
+E:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\bin\Debug\Entidades.Punto6F.pdb
+E:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\obj\Debug\Entidades.Punto6F.dll
+E:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\obj\Debug\Entidades.Punto6F.pdb
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\bin\Debug\Entidades.Punto6F.dll
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\bin\Debug\Entidades.Punto6F.pdb
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\obj\Debug\Entidades.Punto6F.dll
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\obj\Debug\Entidades.Punto6F.pdb
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto6F\obj\Debug\Entidades.Punto6F.csprojResolveAssemblyReference.cache

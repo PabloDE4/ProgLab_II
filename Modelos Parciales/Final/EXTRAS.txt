@@ -1,0 +1,10 @@
+//Entidades.Punto3.
+//Agregar en Humano el metodo Mostrar():string y Mostrar(Humano):string, ambos abstractos.
+//El metodo que no recibe parametros, retornara nombre y raza, mientras que el otro
+//retornara todas las caracteristicas de la instancia que recibe como parametro. REUTILIZAR CODIGO.
+
+//Entidades.Punto4.
+//Agregar en la clase Persona una sobrecarga en el implicit para que retorne todas 
+//las caracteristicas de la instancia. Aplicar polimorfismo sobre el metodo ToString 
+//que debera reutilizar codigo.
+

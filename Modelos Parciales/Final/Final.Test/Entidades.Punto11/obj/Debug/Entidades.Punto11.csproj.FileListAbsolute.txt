@@ -1,0 +1,7 @@
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto11\bin\Debug\Entidades.Punto11.dll
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto11\bin\Debug\Entidades.Punto11.pdb
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto11\obj\Debug\Entidades.Punto11.dll
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto11\obj\Debug\Entidades.Punto11.pdb
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto11\obj\Debug\Entidades.Punto11.csprojResolveAssemblyReference.cache
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto11\bin\Debug\Entidades.Punto10.dll
+I:\FinalLaboratorioII\Final.Test\Entidades.Punto11\bin\Debug\Entidades.Punto10.pdb

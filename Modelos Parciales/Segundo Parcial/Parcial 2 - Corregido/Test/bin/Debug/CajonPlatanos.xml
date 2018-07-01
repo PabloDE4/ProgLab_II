@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CajonOfPlatano xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Frutas>
+    <Platano>
+      <paisOrigen>Ecuador</paisOrigen>
+    </Platano>
+    <Platano>
+      <paisOrigen>Brasil</paisOrigen>
+    </Platano>
+  </Frutas>
+  <RutaArchivo>I:\UTN\Programacion - Laboratorio II\Otros ejercicios\Parcial 2 - Corregido\DiazEcheveste.Pablo.2C\Test\bin\Debug\CajonPlatanos.xml</RutaArchivo>
+</CajonOfPlatano>
