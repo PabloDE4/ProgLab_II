@@ -1,0 +1,19 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepcion.dll
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepcion.pdb
+E:\ProgLabII_2018\Modelos Parciales\Segundo Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+E:\ProgLabII_2018\Modelos Parciales\Segundo Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+E:\ProgLabII_2018\Modelos Parciales\Segundo Parcial\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
