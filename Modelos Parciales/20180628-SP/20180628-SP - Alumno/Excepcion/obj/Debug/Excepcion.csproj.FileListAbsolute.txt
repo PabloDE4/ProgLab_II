@@ -1,5 +1,0 @@
-C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\Excepcion\bin\Debug\Excepcion.dll
-C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\Excepcion\bin\Debug\Excepcion.pdb
-C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\Excepcion\obj\Debug\Excepcion.csprojResolveAssemblyReference.cache
-C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\Excepcion\obj\Debug\Excepcion.dll
-C:\Users\alumno\Desktop\20180628-SP\20180628-SP - Alumno\Excepcion\obj\Debug\Excepcion.pdb
