@@ -1,0 +1,11 @@
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\bin\Debug\WF_Final.exe.config
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\bin\Debug\WF_Final.exe
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\bin\Debug\WF_Final.pdb
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\obj\Debug\WF_Final.csprojResolveAssemblyReference.cache
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\obj\Debug\WF_Final.Properties.Resources.resources
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\obj\Debug\WF_Final.csproj.GenerateResource.Cache
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\obj\Debug\WF_Final.exe
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\obj\Debug\WF_Final.pdb
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\obj\Debug\WF_Final.Form1.resources
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\bin\Debug\Entidades.dll
+G:\ProgLabII_2018\Modelos Parciales\Final\20171212-Final\20171212-Final\WF_Final\bin\Debug\Entidades.pdb
