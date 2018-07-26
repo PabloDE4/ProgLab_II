@@ -1,0 +1,4 @@
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\Entidades\bin\Debug\Entidades.dll
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\Entidades\bin\Debug\Entidades.pdb
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\Entidades\obj\Debug\Entidades.dll
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\Entidades\obj\Debug\Entidades.pdb

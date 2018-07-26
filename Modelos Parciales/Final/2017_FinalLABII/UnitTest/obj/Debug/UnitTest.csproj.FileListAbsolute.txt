@@ -1,0 +1,7 @@
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\UnitTest\bin\Debug\UnitTest.dll
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\UnitTest\bin\Debug\UnitTest.pdb
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\UnitTest\bin\Debug\Entidades.dll
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\UnitTest\bin\Debug\Entidades.pdb
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\UnitTest\obj\Debug\UnitTest.dll
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\UnitTest\obj\Debug\UnitTest.pdb

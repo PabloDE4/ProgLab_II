@@ -1,0 +1,11 @@
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\bin\Debug\FormFinal.exe.config
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\bin\Debug\FormFinal.exe
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\bin\Debug\FormFinal.pdb
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\obj\Debug\FormFinal.csprojResolveAssemblyReference.cache
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\obj\Debug\FormFinal.frmFinal.resources
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\obj\Debug\FormFinal.Properties.Resources.resources
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\obj\Debug\FormFinal.csproj.GenerateResource.Cache
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\obj\Debug\FormFinal.exe
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\obj\Debug\FormFinal.pdb
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\bin\Debug\Entidades.dll
+G:\ProgLabII_2018\Modelos Parciales\Final\2017_FinalLABII\2017_FinalLABII\FormFinal\bin\Debug\Entidades.pdb
